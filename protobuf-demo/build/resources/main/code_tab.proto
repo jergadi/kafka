@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package com.avaloq.aip.protobuf.code_Tab;
+
+message CodeTab {
+  string codeTabName = 1;
+  sint64 id = 2;
+  string int1Id = 3;
+  string userId = 4;
+  string name = 5;
+  string descn = 6;
+  bool active = 7;
+  map<string,string> fields = 8;
+}

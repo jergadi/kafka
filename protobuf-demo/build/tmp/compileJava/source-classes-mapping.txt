@@ -1,0 +1,21 @@
+com/avaloq/aip/protobuf/code_Tab/CodeTabOuterClass.java
+ com.avaloq.aip.protobuf.code_Tab.CodeTabOuterClass
+ com.avaloq.aip.protobuf.code_Tab.CodeTabOuterClass$1
+ com.avaloq.aip.protobuf.code_Tab.CodeTabOuterClass$CodeTab
+ com.avaloq.aip.protobuf.code_Tab.CodeTabOuterClass$CodeTab$1
+ com.avaloq.aip.protobuf.code_Tab.CodeTabOuterClass$CodeTab$Builder
+ com.avaloq.aip.protobuf.code_Tab.CodeTabOuterClass$CodeTab$FieldsDefaultEntryHolder
+ com.avaloq.aip.protobuf.code_Tab.CodeTabOuterClass$CodeTabOrBuilder
+example/simple/Simple.java
+ example.simple.Simple
+ example.simple.Simple$1
+ example.simple.Simple$SimpleMessage
+ example.simple.Simple$SimpleMessage$1
+ example.simple.Simple$SimpleMessage$Builder
+ example.simple.Simple$SimpleMessageOrBuilder
+com/github/jergadi/protobuf/ProtoBuilder.java
+ com.github.jergadi.protobuf.ProtoBuilder
+com/github/jergadi/protobuf/KafkaGenerator.java
+ com.github.jergadi.protobuf.KafkaGenerator
+com/github/jergadi/protobuf/KafkaFakerMain.java
+ com.github.jergadi.protobuf.KafkaFakerMain
